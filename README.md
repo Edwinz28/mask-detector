@@ -6,7 +6,8 @@ The neural network recieves an image input from a camera/webcam and is able to c
 **face_detection.ipynb:** The main driving code. Links the CNN model with opencv to recieve live data input \
 **mask-detector.ipynb:** Main code for devloping the CNN \
 **mask-detector-svm.ipynb:** Main code for developing the baseline model (SVM) \
-**image-preprocessing.ipynb:** Code for preprocessing and augmenting data. \
+**image-preprocessing.ipynb:** Code for preprocessing \
+**randomize_mask_colors.ipynb:** File containing data augmentation techniques \
 **confusion_matrix.ipynb:** Code for illustrating confusion matrix of main model. Used for making the final video presentation \
 **haarcascade_frontal.xml:** Save file for opencv haarcascade classifier \
 **/models:** saved models folder \
